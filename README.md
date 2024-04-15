@@ -1,0 +1,1 @@
+This repository contains R code for integrating single-cell RNA sequencing (scRNA-seq) data from stimulated and control conditions using the Harmony algorithm. The scRNA-seq data is obtained from immune cells and aims to investigate transcriptional changes induced by stimulation.
